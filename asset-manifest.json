@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/todoassign/static/css/main.94b4d9dc.css",
+    "main.js": "/todoassign/static/js/main.fbb36455.js",
+    "static/js/453.4528d904.chunk.js": "/todoassign/static/js/453.4528d904.chunk.js",
+    "static/media/bg.jpg": "/todoassign/static/media/bg.09cdbfbbd6a3c7dc2bdf.jpg",
+    "index.html": "/todoassign/index.html",
+    "main.94b4d9dc.css.map": "/todoassign/static/css/main.94b4d9dc.css.map",
+    "main.fbb36455.js.map": "/todoassign/static/js/main.fbb36455.js.map",
+    "453.4528d904.chunk.js.map": "/todoassign/static/js/453.4528d904.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94b4d9dc.css",
+    "static/js/main.fbb36455.js"
+  ]
+}
